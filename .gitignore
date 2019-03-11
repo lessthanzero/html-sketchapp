@@ -6,3 +6,4 @@ playground/
 e2e/dist/
 e2e/valid/
 build/
+yarn.lock
